@@ -1,0 +1,101 @@
+﻿Project ID ,Opportunity Owner,Account Name,Stage, Amount ,Expected Revenue,Probability,Service Category,Service Line,Stage Number,Account Type,Billing Type,MSA Signed
+1,Amandeep Sidhu,"Dana Companies, Llc",Signed Contract,7680,7680,1,,Enterprise Solutions,8,US-Central BU,Time and Expense,0
+2,Amandeep Sidhu,"Dana Companies, Llc",Verbal Agreement,6400,5760,1,,Enterprise Solutions,7,US-Central BU,Time and Expense,0
+3,Amandeep Sidhu,"Dana Companies, Llc",Verbal Agreement,3600,3240,1,,Enterprise Solutions,7,US-Central BU,Time and Expense,0
+4,Amandeep Sidhu,"Dana Companies, Llc",Verbal Agreement,3600,3240,1,,Enterprise Solutions,7,US-Central BU,Time and Expense,0
+5,Anand Nair,"Wellpoint, Inc",Signed Contract,50224,50224,1,Mainframe Systems,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+6,Anand Nair,"Wellpoint, Inc",Signed Contract,205842,205842,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+7,Anand Nair,"Wellpoint, Inc",Signed Contract,192066,192066,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+8,Arun Satyan,OfficeMax Incorporated,Proposal On-desk Stage,50000,30000,0,Mainframe Systems,Technology Build Services,5,US-Central BU,Time and Expense,0
+9,Brian Runyan,Sempra Energy,Opportunity Identification Stage,10000000,3000000,0,,Application Managed Services,3,US-West BU,Flat Fee Monthly,0
+10,Chris Bryson,Starbucks,Proposal Preparation Stage,148200,74100,0,,Technology Build Services,4,US-West BU,Fixed Bid,0
+11,Chris Bryson,CareFusion,Proposal Preparation Stage,500000,250000,0,,Enterprise Solutions,4,US-West BU,Flat Fee Monthly,1
+12,Haresh Tripathi,Cisco,Signed Contract,68628,68628,1,Java Systems,Technology Build Services,8,Cisco,Flat Fee Monthly,0
+13,Haresh Tripathi,Cisco,Proposal Preparation Stage,800000,400000,0,,Infrastructure Management Services,4,Cisco,Time and Expense,0
+14,Haresh Tripathi,Cisco,Proposal Preparation Stage,10000,5000,0,,Application Managed Services,4,Cisco,T and E with Cap,0
+15,James Jarvis,Alliance Boots Holdings Ltd.,Proposal On-desk Stage,750000,525000,1,Domain-specific Testing,Quality and Testing,5,Europe BU,Flat Fee Monthly,1
+16,James Jarvis,UBS,Opportunity Identification Stage,7000000,3500000,0,,Application Managed Services,3,Europe BU,Flat Fee Monthly,0
+17,James Jarvis,Alliance Boots Holdings Ltd.,Opportunity Identification Stage,350000,105000,0,,Quality and Testing,3,Europe BU,Time and Expense,1
+18,James Jarvis,Specsavers Optical Group Limited,Opportunity Identification Stage,2500000,750000,0,,Enterprise Solutions,3,Europe BU,Fixed Bid,0
+19,Jose Ossa,Vanguard,Negotiation / Short-list Stage,718411,574728.8,1,Microsoft Systems,Technology Build Services,6,US-East BU,Fixed Bid,0
+20,Jose Ossa,Vanguard,Verbal Agreement,61920,55728,1,,Quality and Testing,7,US-East BU,Time and Expense,0
+21,Jose Ossa,Vanguard,Verbal Agreement,61920,55728,1,,Technology Build Services,7,US-East BU,Time and Expense,0
+22,Jose Ossa,Vanguard,Verbal Agreement,82560,74304,1,,Technology Build Services,7,US-East BU,Time and Expense,0
+23,Karen Gelstein,Pitney Bowes Inc.,Opportunity Closed LOST,600000,0,0,Microsoft Systems,Technology Build Services,-1,US-East BU,Fixed Bid,0
+24,Kenton Kisler,Saxon Mortgage,Verbal Agreement,80300,56210,1,Organization and Process Improvement,Quality and Testing,7,US-West BU,Flat Fee Monthly,1
+25,Kenton Kisler,Saxon Mortgage,Opportunity Identification Stage,150000,45000,0,,Consulting,3,US-West BU,Flat Fee Monthly,1
+26,Kenton Kisler,Saxon Mortgage,Opportunity Identification Stage,100000,30000,0,,Consulting,3,US-West BU,Flat Fee Monthly,1
+27,Kevin Swanson,"Wellpoint, Inc",Signed Contract,382650.2,382650.2,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+28,Kevin Swanson,"Wellpoint, Inc",Signed Contract,203724,203724,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+29,Kevin Swanson,"Wellpoint, Inc",Signed Contract,32214.12,32214.12,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+30,Kevin Swanson,"Wellpoint, Inc",Signed Contract,96878,96878,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+31,Kevin Swanson,"Wellpoint, Inc",Signed Contract,49020,49020,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+32,Kevin Swanson,"Wellpoint, Inc",Signed Contract,26596,26596,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+33,Kevin Swanson,"Wellpoint, Inc",Signed Contract,164311,164311,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+34,Kevin Swanson,"Wellpoint, Inc",Opportunity Identification Stage,2500000,250000,0,,Technology Build Services,3,WellPoint BU,Flat Fee Monthly,0
+35,Kyle Crane,"Express Scripts, Inc.",Signed Contract,345648,345648,1,Business and Domain Consulting,Consulting,8,US-Central BU,T and E with Cap,1
+36,Leo Bley,Safeway,Proposal Preparation Stage,129600,64800,0,,Business Intelligence and Data Management,4,US-West BU,Time and Expense,1
+37,Mahesh Bhaskar,GE Corporate,Signed Contract,1,0,0,Business Intelligence And Reporting,Application Managed Services,8,GE BU,Flat Fee Monthly,1
+38,Mahesh Bhaskar,GE Corporate,Signed Contract,5800,5800,1,,Enterprise Solutions,8,GE BU,Fixed Bid,1
+39,Mahesh Bhaskar,GE Corporate,Signed Contract,3550,3550,1,,Enterprise Solutions,8,GE BU,Fixed Bid,1
+40,Mahesh Bhaskar,GE Corporate,Signed Contract,1000,1000,1,,Enterprise Solutions,8,GE BU,Fixed Bid,1
+41,Mahesh Bhaskar,GE Corporate,Signed Contract,348407.4,348407.4,1,,Application Managed Services,8,GE BU,Flat Fee Monthly,1
+42,Michael Hopewell,Equifax Inc.,Proposal Preparation Stage,1500000,450000,0,,Technology Build Services,4,US-East BU,Time and Expense,0
+43,Nadarsha Sainaba,"Wellpoint, Inc",Signed Contract,-236761,-236761,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+44,Nadarsha Sainaba,"Wellpoint, Inc",Signed Contract,54936,54936,1,,Quality and Testing,8,WellPoint BU,Flat Fee Monthly,0
+45,Nadarsha Sainaba,"Wellpoint, Inc",Signed Contract,117399,117399,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+46,Nadarsha Sainaba,"Wellpoint, Inc",Signed Contract,44220,44220,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+47,Narendranath PN,Kerala Service Coop Banks,Proposal Preparation Stage,4444.44,2222.22,0,,Technology Build Services,4,SMB BU,Fixed Bid,0
+48,Narendranath PN,Kerala Service Coop Banks,Proposal On-desk Stage,4444.44,2666.66,1,,Technology Build Services,5,SMB BU,Fixed Bid,0
+49,Praveen Syamala,"Wellpoint, Inc",Signed Contract,828621,828621,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+50,Praveen Syamala,"Wellpoint, Inc",Signed Contract,103432,103432,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+51,Ramakrishnan Gopalan,"DELL, Inc.",Execution Complete,992,992,1,Database Management,Infrastructure Management Services,0,Dell BU,Time and Expense,0
+52,Ramakrishnan Gopalan,"DELL, Inc.",Proposal Preparation Stage,852048,426024,0,Microsoft Systems,Technology Build Services,4,Dell BU,Time and Expense,0
+53,Ramakrishnan Gopalan,"DELL, Inc.",Proposal Preparation Stage,19146,9573,0,Database Management,Application Managed Services,4,Dell BU,Time and Expense,0
+54,Ramakrishnan Gopalan,"DELL, Inc.",Proposal Preparation Stage,75996,37998,0,Microsoft Systems,Technology Build Services,4,Dell BU,Time and Expense,0
+55,Ramakrishnan Gopalan,"DELL, Inc.",Proposal Preparation Stage,77764,38882,0,,Technology Build Services,4,Dell BU,Time and Expense,0
+56,Ramakrishnan Gopalan,"DELL, Inc.",Proposal Preparation Stage,58333,29166.5,0,,Infrastructure Management Services,4,Dell BU,Time and Expense,0
+57,Raphael Hildesheim,GE Business Units,Opportunity Identification Stage,300000,90000,0,Application Management,Application Managed Services,3,GE BU,Fixed Bid,0
+58,Ryan Prindiville,Safeway,Signed Contract,117660,117660,1,Java Systems,Technology Build Services,8,US-West BU,Time and Expense,1
+59,Saju Balakrishnan,CareFusion,Verbal Agreement,11835,10651.5,1,,Enterprise Solutions,7,US-West BU,Time and Expense,1
+60,Saju Thomas Mathew,"Wellpoint, Inc",Signed Contract,69015,69015,1,Mainframe Systems,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+61,Saju Thomas Mathew,"Wellpoint, Inc",Signed Contract,1,1,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+62,Venkatesh Rao,"Wellpoint, Inc",Signed Contract,427680,427680,1,Data Integration,Business Intelligence and Data Management,8,WellPoint BU,Flat Fee Monthly,0
+63,Venkatesh Rao,"Wellpoint, Inc",Signed Contract,297318,297318,1,Java Systems,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+64,Venkatesh Rao,"Wellpoint, Inc",Signed Contract,1,1,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+65,Venkatesh Rao,"Wellpoint, Inc",Signed Contract,1,1,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+66,Venkatesh Rao,"Wellpoint, Inc",Signed Contract,695635,695635,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+67,Vivek Anand,Walmart,Signed Contract,12932,12932,1,,Technology Build Services,8,Wal-Mart,Time and Expense,0
+68,Amandeep Sidhu,"Dana Companies, Llc",Verbal Agreement,4384,3945.6,1,,Technology Build Services,7,US-Central BU,Time and Expense,0
+69,Anand Nair,"Wellpoint, Inc",Signed Contract,105871,105871,1,,Technology Build Services,8,WellPoint BU,Flat Fee Monthly,0
+70,Andrew Wille,Walt Disney Company,No bid / Retraction,98102,0,0,,Technology Build Services,0,US-West BU,Time and Expense,0
+71,Arun Satyan,Walt Disney Company,Negotiation / Short-list Stage,98847,79077.6,1,Microsoft Systems,Technology Build Services,6,US-West BU,Time and Expense,0
+72,Cengiz Uludag,DHL-Europe,Signed Contract,6611.3,6611.3,1,,Application Managed Services,8,DHL,Fixed Bid,0
+73,Cengiz Uludag,DHL-AsiaPac,F2F Meeting Stage,15000,3000,0,,Application Managed Services,2,DHL,Fixed Bid,0
+74,Chris Bryson,JBS Swift,Signed Contract,1426562,1426562,1,Portfolio Management,Consulting,8,US-West BU,Time and Expense,0
+75,Denny Mathews,"Wellpoint, Inc",Proposal Preparation Stage,58880,29440,1,,Enterprise Solutions,4,WellPoint BU,Fixed Bid,0
+76,Donald Scott,Wolseley,Proposal Preparation Stage,200000,100000,1,,Consulting,4,US-East BU,Time and Expense,1
+77,Gary Rikard,Automobile Club of Southern California,Signed Contract,180000,180000,1,Mainframe Systems,Technology Build Services,8,US-West BU,Time and Expense,0
+78,Haresh Tripathi,Cisco,No bid / Retraction,360000,0,0,Collaboration Systems,Technology Build Services,0,Cisco,Time and Expense,0
+79,Haresh Tripathi,Cisco,No bid / Retraction,400000,0,0,Enterprise Architecture,Consulting,0,Cisco,Fixed Bid,0
+80,Haresh Tripathi,Cisco,No bid / Retraction,232200,0,0,Collaboration Systems,Technology Build Services,0,Cisco,Flat Fee Monthly,0
+81,Haresh Tripathi,Cisco,No bid / Retraction,20000,0,0,Business and Domain Consulting,Consulting,0,Cisco,Time and Expense,0
+82,Haresh Tripathi,Cisco,F2F Meeting Stage,1,,0,,Consulting,0,Cisco,,0
+83,Haresh Tripathi,Cisco,Tele-Sales Stage,300000,3000,0,,,0,Cisco,,0
+84,James Jarvis,UBS,Signed Contract,182000,182000,1,Application Management,Application Managed Services,8,Europe BU,Flat Fee Monthly,0
+85,Jay Kuderka,Automobile Club of Southern California,Proposal Preparation Stage,81600,40800,0,,Technology Build Services,4,US-West BU,Time and Expense,0
+86,Jay Kuderka,Automobile Club of Southern California,Proposal Preparation Stage,85800,42900,0,,Technology Build Services,4,US-West BU,Time and Expense,0
+87,Jay Kuderka,Warner Bros. Entertainment Inc.,Proposal Preparation Stage,250000,125000,0,,Infrastructure Management Services,4,US-West BU,Flat Fee Monthly,0
+88,Jayesh Menon,WellCare Health Plans,Signed Contract,97104,97104,1,Infrastructure Management,Infrastructure Management Services,8,US-East BU,Flat Fee Monthly,1
+89,Jeremy McClellan,Costco Wholesale Corporation,Signed Contract,92880,92880,1,Java Systems,Technology Build Services,8,US-West BU,Flat Fee Monthly,1
+90,Jeremy McClellan,Costco Wholesale Corporation,Negotiation / Short-list Stage,193900,155120,1,,Consulting,6,US-West BU,Flat Fee Monthly,1
+91,Jeremy McClellan,Costco Wholesale Corporation,Verbal Agreement,141384,127245.6,1,,Technology Build Services,7,US-West BU,Flat Fee Monthly,1
+92,Jeremy McClellan,Costco Wholesale Corporation,Negotiation / Short-list Stage,231600,185280,1,,Technology Build Services,6,US-West BU,Flat Fee Monthly,1
+93,Jeremy McClellan,Costco Wholesale Corporation,Proposal Preparation Stage,335000,167500,0,,Enterprise Solutions,4,US-West BU,Fixed Bid,1
+94,Jeremy McClellan,Costco Wholesale Corporation,Signed Contract,89000,89000,1,,Consulting,8,US-West BU,Flat Fee Monthly,1
+95,John Christina,"Wellpoint, Inc",Proposal Preparation Stage,12000000,1200000,0,QA Consulting,Quality and Testing,4,WellPoint BU,Time and Expense,0
+96,John Christina,"Wellpoint, Inc",Verbal Agreement,110920,66552,1,Portfolio Management,Quality and Testing,7,WellPoint BU,Fixed Bid,0
+97,Jose Ossa,Independence Blue Cross,Signed Contract,317865,317865,1,Application Management,Application Managed Services,8,US-East BU,Flat Fee Monthly,0
+98,Jose Ossa,Independence Blue Cross,Signed Contract,748298,748298,1,Application Management,Quality and Testing,8,US-East BU,Flat Fee Monthly,0
+99,Jose Ossa,Independence Blue Cross,Verbal Agreement,408080,408080,1,,Application Managed Services,7,US-East BU,Flat Fee Monthly,0
+100,Karen Gelstein,"BJ's Wholesale Club, Inc.",Opportunity Identification Stage,500000,150000,0,Business Intelligence And Reporting,Consulting,3,US-East BU,Time and Expense,0
